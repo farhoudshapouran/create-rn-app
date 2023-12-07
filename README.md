@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/farhoudshapouran/create-rn-app/main/media/banner.png" alt="Create RN App" width="500" />
 </p>
 
-<h1 align="center">❯ create-rn-app</h1>
+<h1 align="center">❯ npx create-rn-app</h1>
 
 <p align="center">
   <b>Customizable, beautiful and user-friendly React Native command line tools</b>
