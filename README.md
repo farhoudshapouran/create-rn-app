@@ -1,4 +1,8 @@
-# Create RN App
+<p align="center">
+  <img src="https://github.com/farhoudshapouran/create-rn-app/raw/main/banner.png" alt="Create RN App" width="500" />
+</p>
+
+<h1 align="center">❯ create-rn-app</h1>
 
 The easiest way to get started with React Native is by using `create-rn-app`. This CLI tool enables you to quickly start building a new React Native application, with everything set up for you.
 
