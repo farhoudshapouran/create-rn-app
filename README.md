@@ -47,10 +47,6 @@ Options:
 
     Explicitly tell the CLI to bootstrap the app using npm
 
-  --use-pnpm
-
-    Explicitly tell the CLI to bootstrap the app using pnpm
-
   --use-yarn
 
     Explicitly tell the CLI to bootstrap the app using Yarn
