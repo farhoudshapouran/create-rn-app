@@ -4,7 +4,13 @@
 
 <h1 align="center">❯ create-rn-app</h1>
 
+<p align="center">
+  <b>Customizable, beautiful and user-friendly React Native command line tools</b>
+</p>
+
 The easiest way to get started with React Native is by using `create-rn-app`. This CLI tool enables you to quickly start building a new React Native application, with everything set up for you.
+
+![split](https://raw.githubusercontent.com/farhoudshapouran/create-rn-app/main/media/split.png)
 
 ### Interactive
 
