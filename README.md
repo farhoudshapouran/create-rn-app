@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/farhoudshapouran/create-rn-app/raw/main/banner.png" alt="Create RN App" width="500" />
+  <img src="https://raw.githubusercontent.com/farhoudshapouran/create-rn-app/main/media/banner.png" alt="Create RN App" width="500" />
 </p>
 
 <h1 align="center">❯ create-rn-app</h1>
